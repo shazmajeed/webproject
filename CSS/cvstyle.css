@@ -1,0 +1,44 @@
+
+   html { font-size: 100%;  }
+   
+   body { margin: 0; font-size: 0.8em; line-height: 1.4; font-family: sans-serif; color: #222; }
+
+   /* Tables*/
+   
+   table { border-collapse: collapse; border-spacing: 0; }
+  
+   /*  primary styles  */
+   
+   .container {
+       width: 80%;
+       max-width: 600px;
+       margin: 0 auto;	
+   }
+   
+   table{
+       width: 100%;
+   }
+   
+   thead{
+       font-weight: bold;
+   }
+   
+   td{	
+       border: 1px solid #ddd;
+       padding: 2px;
+   }
+
+   #img1{
+    
+      float: right;    
+ margin: 0 0 0 10px;
+ border-radius: 50%;
+ 
+   }
+  
+   
+   
+   
+   
+   
+  

@@ -1,0 +1,28 @@
+body{background-color: #ff6f3a;}
+
+h1, h2, p{color: white;}
+nav{
+    
+    background-color: #662121;
+	  overflow: hidden;
+	  
+	  margin: auto;
+}
+ .myname{font-size: 100px;}
+
+a {
+    float: left;
+    color: rgb(240, 187, 174);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px; 
+    }
+
+    header {
+        text-align: center;
+        
+    }
+    .Myport{
+        text-align: center;
+    }
